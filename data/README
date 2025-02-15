@@ -1,0 +1,3 @@
+The data needed for the script to run are in this folder.
+The 'genomes.csv' file compiles information on 48 790 sequenced genomes on NCBI (2019). It was downloaded from Tom White's github (https://github.com/tomwhite/datavision-code/tree/master/05-genome-size)
+The 'dino_genomes_lin_2024.csv' file compiles information on 30 sequenced dinoflagellate genomes. It is a reproduction from Table 1 in Lin (2024) (https://doi.org/10.1186/s12864-024-10847-5)
